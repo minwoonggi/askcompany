@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'blog1',
     'instagram',
+    'admin_honeypot'
 ]
 
 MIDDLEWARE = [
